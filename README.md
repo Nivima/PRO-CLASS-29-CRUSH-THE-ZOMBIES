@@ -1,2 +1,2 @@
-# zombie-crush-1
-project solution for c29
+PRO-CLASS-29-CRUSH-THE-ZOMBIES
+
